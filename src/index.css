@@ -1,13 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Barlow&family=Montserrat:wght@300;400;800&family=Poppins:wght@100;200;300;400;500;600;700&family=Roboto&family=Shadows+Into+Light&display=swap');
+
+
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+    font-family: 'Raleway';
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+li {
+    padding: 0 16px ;
+    cursor: pointer;
+   
 }
+
+
+.logo {
+    font-family: 'Barlow', sans-serif;
+    font-style: italic;
+   color: #f96a51;
+}
+
+.ac:link {
+    color: #f96a51;
+}
+
+@media screen and (max-width: 255px) {
+    .gapm {
+        gap: 10px;
+    }
+}
+
+
