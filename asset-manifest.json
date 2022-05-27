@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.0cf3c074.css",
+    "main.js": "/portfolio/static/js/main.487c091a.js",
+    "static/media/countdown.png": "/portfolio/static/media/countdown.e6054ca651150820ee60.png",
+    "static/media/skate.png": "/portfolio/static/media/skate.d5cc643a65dab220bf54.png",
+    "static/media/qg.png": "/portfolio/static/media/qg.b83dda8e71edf32c3b7c.png",
+    "static/media/gpt3.png": "/portfolio/static/media/gpt3.34f76fa10182ae855aca.png",
+    "static/media/skew.png": "/portfolio/static/media/skew.1bf076df9158660edca2.png",
+    "static/media/rest.png": "/portfolio/static/media/rest.84187c3c9d117f2c0dac.png",
+    "static/media/nasa.png": "/portfolio/static/media/nasa.e358873b909a1f706c16.png",
+    "static/media/dict.png": "/portfolio/static/media/dict.3bb3dffe00492b75ea60.png",
+    "static/media/reen.png": "/portfolio/static/media/reen.cc240c856029ca4bbede.png",
+    "static/media/mcp.png": "/portfolio/static/media/mcp.bfbd80836f1966913484.png",
+    "static/media/math.png": "/portfolio/static/media/math.b01b05d63691b32e514b.png",
+    "static/media/robo.png": "/portfolio/static/media/robo.8dfeb4df39fef0a332c8.png",
+    "static/media/blackprofile.jpg": "/portfolio/static/media/blackprofile.1358d4efb1e3f67829f2.jpg",
+    "static/media/notes.png": "/portfolio/static/media/notes.cd12c296cebdbf2b6d1b.png",
+    "static/media/loruki.png": "/portfolio/static/media/loruki.11f791b6a9551cb336c0.png",
+    "static/media/bs5.png": "/portfolio/static/media/bs5.d5210cdeab1bc94309c4.png",
+    "static/media/git.jpg": "/portfolio/static/media/git.db484b56bc5421575cc1.jpg",
+    "static/media/sr.png": "/portfolio/static/media/sr.80261741a7cf1f9656fe.png",
+    "static/media/crypto.png": "/portfolio/static/media/crypto.db65654de0bad7526c75.png",
+    "static/media/react.png": "/portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/html.png": "/portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/portfolio/index.html",
+    "main.0cf3c074.css.map": "/portfolio/static/css/main.0cf3c074.css.map",
+    "main.487c091a.js.map": "/portfolio/static/js/main.487c091a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0cf3c074.css",
+    "static/js/main.487c091a.js"
+  ]
+}
