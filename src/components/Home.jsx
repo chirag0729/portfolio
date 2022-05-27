@@ -31,7 +31,7 @@ const Home = () => {
         </div>
       </div>
       <div className='lg:hidden flex gap-10 mt-[50px]  justify-center items-center gapm'>
-                <a href='https://drive.google.com/file/d/1QdJQ83hHi68uKWTqbDAz0IS1-dPxsSRe/view?usp=sharing'><button className=' text-white hover:text-[#f96a51]'>< BsFillPersonLinesFill size={30}/></button></a>
+                <a href='https://drive.google.com/file/d/1-PAZFEsp4p7GvMg24NS-tftAPn_XME-u/view?usp=sharing'><button className=' text-white hover:text-[#f96a51]'>< BsFillPersonLinesFill size={30}/></button></a>
                 <a href='https://github.com/chirag0729?tab=repositories'><button className=' text-white hover:text-[#f96a51]    '>< FaGithub  size={30}/></button></a>
                 <a href=''><button className=' text-white hover:text-[#f96a51]'>< FaLinkedin  size={30}/></button></a>
                 <a href='mailto:patilchirag1432@gmail.com'><button className='text-white hover:text-[#f96a51]'>< HiOutlineMail  size={30}/></button></a>
@@ -43,3 +43,4 @@ const Home = () => {
 }
 
 export default Home
+
